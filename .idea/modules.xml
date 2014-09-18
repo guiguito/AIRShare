@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIRshare.iml" filepath="$PROJECT_DIR$/AIRshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aFileChooser/aFileChooser.iml" filepath="$PROJECT_DIR$/aFileChooser/aFileChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/captureActivity/captureActivity.iml" filepath="$PROJECT_DIR$/captureActivity/captureActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licencesDialog/licencesDialog.iml" filepath="$PROJECT_DIR$/licencesDialog/licencesDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shAIRe/shAIRe.iml" filepath="$PROJECT_DIR$/shAIRe/shAIRe.iml" />
+    </modules>
+  </component>
+</project>
+

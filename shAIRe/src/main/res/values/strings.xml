@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Global -->
+    <string name="app_name">AIRShare</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Presentation GUI -->
+    <string name="pick_a_file">Pick a file from here</string>
+    <string name="app_description">AIRShare allows you to share data from your phone with devices on the same wifi network.\n
+AIRShare can share :\n
+- images\n
+- videos\n
+- binary files\n
+- text\n
+- contacts\n
+- Map position\n
+It is easy to use. Make sure you are connected to a wifi network.\n
+Click on the share button anywhere on android and pick AIRShare.\n
+When launched you can scan the qrcode or type the url displayed in a browser or bring another device close your phone to transfer the adress via NFC.\n
+The web browser should launch on the other device and download the data.\n
+Have hun ;)</string>
+    <string name="we_cant_share_this">We can\'t share data from this data source yet. May be later ;)</string>
+
+    <!-- Shairing GUI -->
+    <string name="sharing_file">File : </string>
+    <string name="wifi_network">Wifi network :</string>
+    <string name="please_make_sure_your_wifi_is_actvivated">Please make sure your wifi is activated</string>
+    <string name="you_cant_share_this">Sharing of the resource provided failed</string>
+    <string name="cant_generate_qr_code">QRCode generation failed</string>
+    <string name="url_to_download_tiny">Tiny URL :</string>
+    <string name="url_to_download_direct">Direct URL :</string>
+    <string name="nfc_enabled">Nfc available</string>
+    <string name="nfc_disabled">Nfc not available</string>
+    <string name="unknown_file_type">Unknown file type. We can\'t share it !</string>
+
+    <!-- pop-up windows -->
+    <string name="do_you_want_to_keep_sharing_active">Do you want to keep this sharing active ?</string>
+    <string name="already_sharing">You are already sharing data with AIRShare. Do you want to stop sharing it and share this new one ?</string>
+
+    <!-- Menu -->
+    <string name="action_rate">Rate</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+
+    <!-- Notification -->
+    <string name="ticker_text">AIRShare is sharing</string>
+    <string name="notification_title">AIRShare</string>
+    <string name="notification_message">AIRShare is sharing</string>
+    <string name="notification_stop">Stop</string>
+
+    <!-- HTML responses -->
+    <string name="html_header"><![CDATA[<html>\n<body>\n<h1>AIRshare</h1>\n]]></string>
+    <string name="html_footer"><![CDATA[</body>\n</html>\n]]></string>
+    <string name="html_wrong_request">Wrong request.</string>
+    <string name="html_wrong_security_text">Wrong password you are not authorized to perform this download.</string>
+    <string name="html_nothing_to_share">Error there is nothing to share.</string>
+    <string name="title_activity_airshare_application">AIRShareApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

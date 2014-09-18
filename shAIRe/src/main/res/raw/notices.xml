@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright 2013 Philip Schiffer
+  ~
+  ~    Licensed under the Apache License, Version 2.0 (the "License");
+  ~    you may not use this file except in compliance with the License.
+  ~    You may obtain a copy of the License at
+  ~
+  ~        http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~    Unless required by applicable law or agreed to in writing, software
+  ~    distributed under the License is distributed on an "AS IS" BASIS,
+  ~    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~    See the License for the specific language governing permissions and
+  ~    limitations under the License.
+  -->
+<notices>
+    <notice>
+        <name>ZXING</name>
+        <url>https://code.google.com/p/zxing/</url>
+        <copyright />
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>NanoHTTPD</name>
+        <url>https://github.com/NanoHttpd/nanohttpd</url>
+        <copyright>Copyright (c) 2012-2013 by Paul S. Hawke, 2001,2005-2013 by Jarno Elonen, 2010 by
+            Konstantinos Togias All rights reserved.
+        </copyright>
+        <license>NanoHTTPD License</license>
+    </notice>
+    <notice>
+        <name>ButterKnife</name>
+        <url>http://jakewharton.github.io/butterknife/</url>
+        <copyright>Copyright 2013 Jake Wharton</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Apache Commons Lang</name>
+        <url>http://commons.apache.org/proper/commons-lang/</url>
+        <copyright>Copyright 2002-2012 The Apache Software Foundation</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Android Query</name>
+        <url>https://code.google.com/p/android-query/</url>
+        <copyright>(c) 2012 Martin van Zuilekom (http://martin.cubeactive.com)</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Licenses Dialog</name>
+        <url>https://github.com/PSDev/LicensesDialog</url>
+        <copyright>https://github.com/PSDev/LicensesDialog</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Android support V4</name>
+        <url>http://developer.android.com/tools/support-library/index.html</url>
+        <copyright>Copyright (c) 2005-2008, The Android Open Source Project</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>aFileChooser</name>
+        <url>https://github.com/iPaulPro/aFileChooser</url>
+        <copyright>Copyright (C) 2011 - 2013 Paul Burke</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>FileUtils.java</name>
+        <url>https://github.com/openintents/filemanager</url>
+        <copyright>Copyright (C) 2007-2008 OpenIntents.org</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>LocalStorageProvider.java</name>
+        <url>https://github.com/ianhanniballake/LocalStorage</url>
+        <copyright>Copyright (c) 2013, Ian Lake</copyright>
+        <license>BSD 3-Clause License</license>
+    </notice>
+</notices>

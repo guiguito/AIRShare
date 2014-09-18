@@ -1,0 +1,4 @@
+include ':captureActivity'
+include ':licencesDialog'
+include ':aFileChooser'
+include ':shAIRe'
